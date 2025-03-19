@@ -14,7 +14,7 @@ Python, Kali Linux, nmap, Wireshark, Windows, MS Office
 
 🧠 I'm currently learning cybersecurity and quantum computing
 
-📫 To reach me, write me an email [antektrawi@op.pl](mailto:antektrawi@op.pl) or call me at [+48 782 160 903](tel:+48782160903)
+📫 To reach me, write me an email [antektrawi@op.pl](mailto:antektrawi@op.pl)
 
 
 ## 🔗 Links
