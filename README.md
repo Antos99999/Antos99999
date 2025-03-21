@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm Antoni Trawiński, a third-year computer science student at Poznań University of Technology. I specialize in cybersecurity and cryptography. In my free time, I expand my knowledge of quantum computing.\
+I'm Antoni Trawiński, a third-year computer science student at Poznań University of Technology. I specialize in cybersecurity and cryptography.\
 Currently living in :poland: Poznań, Poland
 ## 🛠 Skills
 Python, Kali Linux, nmap, Wireshark, Windows, MS Office
